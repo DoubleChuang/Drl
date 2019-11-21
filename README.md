@@ -1,3 +1,3 @@
 # Drl
 
-Drl is a Dcard home test about rate limit.
+Drl is a Dcard homework about rate limit.

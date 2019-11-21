@@ -19,8 +19,8 @@ type ConnectLimiter struct {
 }
 
 const (
-	MaxConnection    = 3
-	BucketFillDuring = 7 * time.Second
+	MaxConnection    = 60
+	BucketFillDuring = 60 * time.Second
 )
 
 
